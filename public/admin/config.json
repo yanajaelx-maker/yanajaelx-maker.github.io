@@ -1,7 +1,8 @@
 {
-  "repo": "REPLACED_AT_PROVISION",
+  "repo": "yanajaelx-maker/yanajaelx-maker.github.io",
   "branch": "main",
   "authBaseUrl": "https://auth.usegesso.com",
-  "host": "netlify",
-  "formEndpoint": ""
+  "host": "github-pages",
+  "formEndpoint": "https://formsubmit.co/yanajaelx%40gmail.com",
+  "gessoVersion": "0.43.3"
 }
